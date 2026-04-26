@@ -1,7 +1,7 @@
 # Montazar Matlih
 **Lead Systems Architect | Matlih Systems Architecture (MSA)**
 
-AI/ML Engineering | CV/LLM Researcher
+AI/ML Engineer | CV/LLM Researcher
 
 ### ⚙️ Projects
 * **Project IMPACT COMEX Bin** `[Active]`
