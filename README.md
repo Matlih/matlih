@@ -1,5 +1,5 @@
 # Montazar Matlih
-**Lead Systems Architect | Matlih Systems Architecture (MSA)**
+**Lead Systems Architect @ Matlih Systems Architecture (MSA)**
 
 AI/ML Engineer | CV/LLM Researcher
 
