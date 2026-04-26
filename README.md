@@ -15,7 +15,8 @@ AI/ML Engineer | CV/LLM Researcher
 
 ### 🛠 Technical Skills
 * **AI & Machine Learning:** YOLO Architectures, OpenCV, Convolutional Neural Networks (CNN), Multi-Agent LLM Orchestration, Neuro-Symbolic Logic Integration
+
 * **Systems & Infrastructure:** E-commerce infrastructures for commercial clients, Systems Architecture Layout, ML Models Architecture
+
 * **Executive Leadership & Strategy:** Directing cross-functional teams to engineer robust systems by applying predictive architecture to forecast constraints and eliminate execution risks.
-* **Project Architecture & Leadership:** End-to-end technical and communication management.
-* **Strategic Systems Thinking:** Designing robust architectural blueprints by anticipating different outcomes.
+
