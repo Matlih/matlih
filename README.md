@@ -1,6 +1,6 @@
 # Montazar Matlih
 
-**Founder & Lead Systems Architect @ Matlih Systems Architecture (MSA)**
+**Founder & Systems Architect @ Matlih Systems Architecture (MSA)**
 > Directing an independent technology agency focused on scaling high-compute AI architectures, engineering robust e-commerce infrastructure for commercial clients, and participating in global developer challenges.
 
 AI/ML Engineer | CV/LLM Researcher
