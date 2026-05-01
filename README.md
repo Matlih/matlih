@@ -3,7 +3,18 @@
 **Founder & Systems Architect @ Matlih Systems Architecture (MSA)**
 > Directing an independent technology agency focused on scaling high-compute AI architectures, engineering robust e-commerce infrastructure for commercial clients, and participating in global developer challenges.
 
-AI/ML Engineer | CV/LLM Researcher
+<div align="left">
+  <h3>AI/ML Engineer | CV/LLM Researcher</h3>
+  <a href="mailto:matlih.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/montazar-matlih">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://lablab.ai/u/@matlih">
+    <img src="https://img.shields.io/badge/Lablab.ai-000000?style=for-the-badge&logo=c&logoColor=white" alt="Lablab.ai" />
+  </a>
+</div>
 
 ### ⚙️ Projects
 * **Project IMPACT COMEX Bin** `[April 2026]`
