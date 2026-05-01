@@ -6,7 +6,7 @@
 AI/ML Engineer | CV/LLM Researcher
 
 ### ⚙️ Projects
-* **Project IMPACT COMEX Bin** `[Active]`
+* **Project IMPACT COMEX Bin** `[April 2026]`
   Architected a localized, edge-deployed smart bin classification pipeline. Engineered using YOLOv11n.
 
 * **Aerial-View Vehicle Detection Pipeline** `[June 2025]`
