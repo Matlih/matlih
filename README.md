@@ -1,4 +1,5 @@
 # Montazar Matlih
+*“Architect for weeks. Engineer in days.”*
 
 **Founder & Systems Architect @ Matlih Systems Architecture (MSA)**
 > Directing an independent technology agency focused on scaling high-compute AI architectures, engineering robust e-commerce infrastructure for commercial clients, and participating in global developer challenges.
@@ -17,19 +18,20 @@
 </div>
 
 ### ⚙️ Projects
+
+* **Project ARK: Autonomous Reconnaissance Kinematics** `[May 2026]`
+  **[AMD AI Hackathon]** A defense-grade, sovereign geospatial protocol orchestrating multi-agent workflows to transform raw satellite telemetry into zero-latency disaster directives. Engineered a 3-track pipeline on an AMD MI300X (192GB HBM3) utilizing ROCm 6.0, LangGraph, and a fine-tuned Prithvi-100M to Qwen-VL architecture.
+
 * **Project IMPACT COMEX Bin** `[April 2026]`
-  Architected a localized, edge-deployed smart bin classification pipeline. Engineered using YOLOv11n.
+  Architected a localized, edge-deployed smart bin classification pipeline. Engineered using YOLOv11n for high-efficiency environmental categorization.
 
 * **Aerial-View Vehicle Detection Pipeline** `[June 2025]`
   **[Capstone Project]** Engineered a high-speed convolutional neural network pipeline utilizing YOLOv11 for the real-time spatial tracking and multi-class categorization of vehicles.
   
 * **Computer Vision for Traditional Uniform Detection** `[June 2025]`
-  Developed as a live demonstration for the National University Dasmariñas (NUD) STEM Career Fair. Engineered a vision pipeline to detect and identify traditional uniform.
+  Developed as a live demonstration for the National University Dasmariñas (NUD) STEM Career Fair. Engineered a rapid-inference vision pipeline to detect and identify traditional uniforms.
 
 ### 🛠 Technical Skills
-* **AI & Machine Learning:** YOLO Architectures, OpenCV, Convolutional Neural Networks (CNN), Multi-Agent LLM Orchestration, Neuro-Symbolic Logic Integration
-
-* **Systems & Infrastructure:** E-commerce infrastructures for commercial clients, Systems Architecture Layout, ML Models Architecture
-
+* **AI & Machine Learning:** Multi-Agent LLM Orchestration (LangGraph), Multimodal Fine-Tuning (LoRA), YOLO Architectures, OpenCV, Convolutional Neural Networks (CNN), Neuro-Symbolic Logic Integration.
+* **Systems & Compute Infrastructure:** Bare-metal GPU provisioning, ROCm 6.x execution, systems architecture layout, and e-commerce infrastructures for commercial clients.
 * **Executive Leadership & Strategy:** Directing cross-functional teams to engineer robust systems by applying predictive architecture to forecast constraints and eliminate execution risks.
-
