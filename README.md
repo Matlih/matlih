@@ -20,13 +20,13 @@
 ### ⚙️ Projects
 
 * **Project ARK: Autonomous Reconnaissance Kinematics** `[May 2026]`
-  **[AMD AI Hackathon]** A defense-grade, sovereign geospatial protocol orchestrating multi-agent workflows to transform raw satellite telemetry into zero-latency disaster directives. Engineered a 3-track pipeline on an AMD MI300X (192GB HBM3) utilizing ROCm 6.0, LangGraph, and a fine-tuned Prithvi-100M to Qwen-VL architecture.
+  **[AMD AI Hackathon]** A defense-grade, sovereign geospatial protocol orchestrating multi-agent workflows to transform raw satellite telemetry into zero-latency disaster directives. Engineered a 3-track pipeline on an AMD MI300X (192GB HBM3) utilizing ROCm 6.0, LangGraph, and a fine-tuned Prithvi-100M to Qwen-VL architecture. [Live Deployment](https://project-ark-mu.vercel.app/).
 
 * **Project IMPACT COMEX Bin** `[April 2026]`
   Architected a localized, edge-deployed smart bin classification pipeline. Engineered using YOLOv11n for high-efficiency environmental categorization.
 
 * **Aerial-View Vehicle Detection Pipeline** `[June 2025]`
-  **[Capstone Project]** Engineered a high-speed convolutional neural network pipeline utilizing YOLOv11 for the real-time spatial tracking and multi-class categorization of vehicles.
+  **[Grade 12 Capstone]** Engineered a high-speed convolutional neural network pipeline utilizing YOLOv11 for real-time spatial tracking and multi-class vehicle categorization. Achieved 94.2% mAP@50. [Read the full evaluation metrics here (DOI)](https://doi.org/10.13140/RG.2.2.31747.46888).
   
 * **Computer Vision for Traditional Uniform Detection** `[June 2025]`
   Developed as a live demonstration for the National University Dasmariñas (NUD) STEM Career Fair. Engineered a rapid-inference vision pipeline to detect and identify traditional uniforms.
