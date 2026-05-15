@@ -20,20 +20,25 @@
   ### ⚙️ Projects
 
 * **Blacksite Node** `[May 2026]`
-  **[Sovereign Security Architecture]** A zero-knowledge, fully offline cryptographic vault and password manager. Architected a defense-grade backend utilizing Tauri v2 and Rust (Argon2id, ChaCha20-Poly1305) with an isolated React frontend. Engineered a "Duress Protocol" (Canary Passphrase) to neutralize physical threat vectors via secure local data wiping.
+  **[Sovereign Security Architecture]** A zero-knowledge password manager with strict memory-hard constraints and physical threat neutralization (Duress Protocol).
+  - **Stack:** Rust, Tauri v2, Argon2id, ChaCha20-Poly1305, React.
 
 * **Project ARK: Autonomous Reconnaissance Kinematics** `[May 2026]`
-  **[AMD AI Hackathon]** A defense-grade, sovereign geospatial protocol orchestrating multi-agent workflows to transform raw satellite telemetry into zero-latency disaster directives. Engineered a 3-track pipeline on an AMD MI300X (192GB HBM3) utilizing ROCm 6.0, LangGraph, and a fine-tuned Prithvi-100M to Qwen-VL architecture. [Live Deployment](https://project-ark-mu.vercel.app/).
+  **[AMD AI Hackathon]** A defense-grade geospatial protocol transforming raw satellite telemetry into zero-latency disaster directives. [Live Deployment](https://project-ark-mu.vercel.app/).
+  - **Stack:** AMD MI300X, ROCm 6.0, LangGraph, Prithvi-100M, Qwen-VL.
 
 * **Project IMPACT COMEX Bin** `[April 2026]`
-  **[Edge AI Infrastructure]** A localized, edge-deployed smart waste classification system. Engineered a high-efficiency environmental categorization pipeline utilizing YOLOv11n for real-time inference on resource-constrained hardware.
+  **[Edge AI Infrastructure]** A localized, edge-deployed smart waste classification system engineered for real-time inference on resource-constrained hardware.
+  - **Stack:** YOLOv11n, Edge Inference, Computer Vision.
 
 * **Aerial-View Vehicle Detection Pipeline** `[June 2025]`
-  **[Grade 12 Capstone]** A real-time spatial tracking and multi-class vehicle categorization system. Engineered a high-speed convolutional neural network pipeline utilizing YOLOv11, achieving a highly accurate 94.2% mAP@50. [Read the full evaluation metrics here (DOI)](https://doi.org/10.13140/RG.2.2.31747.46888).
+  **[Grade 12 Capstone]** A real-time detection and multi-class vehicle categorization pipeline achieving 94.2% mAP@50. [Read the full evaluation metrics here (DOI)](https://doi.org/10.13140/RG.2.2.31747.46888).
+  - **Stack:** YOLOv11, CNNs, Computer Vision.
   
 * **Computer Vision for Traditional Uniform Detection** `[June 2025]`
-  **[Live Demonstration]** A rapid-inference vision pipeline for cultural garment identification. Engineered and deployed as a live, real-time technical demonstration for the National University Dasmariñas (NUD) STEM Career Fair.
-
+  **[Live Demonstration]** A rapid-inference vision pipeline for cultural garment identification. Live, real-time technical demonstration for the National University Dasmariñas (NUD) STEM Career Fair.
+  - **Stack:** YOLOv11, Rapid Inference, Computer Vision.
+  
 ### 🛠 Technical Skills
 * **AI & Machine Learning:** Multi-Agent LLM Orchestration (LangGraph), Multimodal Fine-Tuning (LoRA), YOLO Architectures, OpenCV, Convolutional Neural Networks (CNN), Neuro-Symbolic Logic Integration.
 * **Systems & Compute Infrastructure:** Bare-metal GPU provisioning, ROCm 6.x execution, systems architecture layout, and e-commerce infrastructures for commercial clients.
