@@ -35,7 +35,7 @@
   * **Stack:** YOLO11, Convolutional Neural Networks, Computer Vision.
   
 * **Computer Vision for Traditional Uniform Detection** `[June 2025]`
-  **[Live Demonstration]** A rapid-inference vision pipeline for cultural garment identification. Live, real-time technical demonstration for the National University Dasmariñas (NUD) STEM Career Fair.
+  **[Live Demonstration]** A rapid-inference vision pipeline for cultural garment identification. Live, real-time technical demonstration for the National University Dasmariñas (NUD) STEM Career Fair A.Y. 2024-2025.
   * **Stack:** YOLO11, Rapid Inference, Computer Vision.
   
 ### 🛠 Technical Skills
