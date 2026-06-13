@@ -19,6 +19,10 @@
 
   ### ⚙️ Projects
 
+* **ChipSentinel** `[May 2026 - Present]`
+  **[Active Startup]** Passive AI anomaly detection engine for the semiconductor and PCB manufacturing industries. Translating high-speed visual telemetry into daily margin recovery. [Landing Page](https://chipsentinel.cloud/).
+  * **Stack:** AMD MI300X, ROCm 6.0, PatchCore (Edge Inference), Qwen-VL (Reasoning Backlog), FastAPI, React.
+
 * **Blacksite Node** `[May 2026]`
   **[Sovereign Security Architecture]** A zero-knowledge password manager with strict memory-hard constraints and a cryptographic duress protocol.
   * **Stack:** Rust, Tauri v2, Argon2id, ChaCha20-Poly1305, React.
@@ -40,6 +44,6 @@
   
 ### 🛠 Technical Skills
 * **AI & Machine Learning:** Multi-Agent LLM Orchestration (LangGraph), Multimodal Fine-Tuning (LoRA), YOLO Architectures, OpenCV, Convolutional Neural Networks (CNN), Neuro-Symbolic Logic Integration.
-* **Systems & Compute Infrastructure:** Bare-metal GPU provisioning, ROCm 6.x execution, systems architecture layout, and scalable e-commerce infrastructures for commercial clients.
+* **Systems & Compute Infrastructure:** Bare-metal GPU provisioning, ROCm 6.x execution, and systems architecture layout.
 * **Security Architecture:** Rust Cryptographic Engineering (Argon2id, Tauri IPC isolation), Zero-Knowledge infrastructure, and offline threat modeling.
 * **Leadership & Strategy:** Directing cross-functional teams to engineer robust systems by applying predictive architecture to forecast constraints and eliminate execution risks.
