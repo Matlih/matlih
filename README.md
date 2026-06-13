@@ -24,7 +24,7 @@
   * **Stack:** Rust, Tauri v2, Argon2id, ChaCha20-Poly1305, React.
 
 * **Project ARK: Autonomous Reconnaissance Kinematics** `[May 2026]`
-  **[AMD AI Hackathon]** A defense-grade geospatial protocol transforming raw satellite telemetry into ultra-low latency disaster directives. [Live Deployment](https://project-ark-mu.vercel.app/).
+  **[AMD Developer Hackathon]** A defense-grade geospatial protocol transforming raw satellite telemetry into ultra-low latency disaster directives. [Live Deployment](https://project-ark-mu.vercel.app/).
   * **Stack:** AMD MI300X, ROCm 6.0, LangGraph, Prithvi-100M, Qwen-VL.
 
 * **ShellWise Smart Bin (Project IMPACT)** `[April 2026]` **[1st Place & DOST Endorsed]** A localized, edge-deployed smart waste classification system engineered for real-time inference on resource-constrained hardware. Awarded 1st Place overall by NU-D and REZBIN, securing official endorsement for regional edge-AI integration from DOST Calabarzon and DSWD.
