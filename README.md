@@ -1,8 +1,8 @@
 # Montazar Matlih
 *“Architect for weeks. Engineer in days.”*
 
-**Systems Architect & Founder @ Matlih Systems Architecture (MSA)**
-> Directing an independent technology agency focused on scaling high-compute AI architectures, engineering robust e-commerce infrastructure for commercial clients, and participating in global developer challenges.
+**Systems Architect & Founder @ ChipSentinel**
+> Passive edge AI and computer vision pipelines for semiconductor manufacturing and margin recovery.
 
 <div align="left">
   <h3>AI/ML Engineer | CV/LLM Researcher</h3>
