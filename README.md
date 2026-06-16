@@ -6,11 +6,11 @@
 
 <div align="left">
   <h3>AI/ML Engineer | CV/LLM Researcher</h3>
-  <a href="mailto:matlih.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
   <a href="https://linkedin.com/in/montazar-matlih">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Montazar-Matlih">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" />
   </a>
   <a href="https://lablab.ai/u/@matlih">
     <img src="https://img.shields.io/badge/Lablab.ai-000000?style=for-the-badge&logo=c&logoColor=white" alt="Lablab.ai" />
