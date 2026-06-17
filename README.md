@@ -73,7 +73,6 @@
   
 </details>
 
-<br>
 
 ### 🛠 Technical Skills
 
