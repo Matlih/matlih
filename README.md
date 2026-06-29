@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary><strong>Blacksite Node</strong> <code>[May 2026 - Present]</code> <strong>[Sovereign Security Architecture]</strong> <br>
+  <summary><strong>Blacksite Node</strong> <code>[May 2026 - Present]</code> <strong>[Free, Open-Source Software]</strong> <br>
   <strong>Stack:</strong> Tauri v2, Argon2id, ChaCha20-Poly1305, NLP (LSTM/RNN), LSB/EOF Steganography, Rust, React</summary>
   A zero-knowledge password manager & secure notepad with strict memory-hard constraints and a cryptographic duress protocol. Integrates Natural Language Processing (NLP) to evaluate password entropy, replacing rudimentary regex limits. Steganography exports via End-Of-File (EOF) and Least Significant Bit (LSB). Uses BIP-39 wordlist, with a total of 12,288 words across (English, Spanish, French, Italian, Portuguese, and Czech) for the passphrase. Forever, Free and Open-Source Software (FOSS). <a href="https://github.com/Matlih/Blacksite-Node/releases">Releases.</a> <a href="https://github.com/Matlih/Blacksite-Node">Repository.</a>
 
