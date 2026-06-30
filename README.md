@@ -1,11 +1,14 @@
 # Montazar Matlih
-*“Architect for weeks. Engineer in days.”*
 
-**Systems Architect & Founder @ ChipSentinel**
-> Passive edge AI and computer vision pipelines for semiconductor manufacturing and margin recovery.
+**Applied AI Engineer — Edge Computer Vision & Multi-Agent Systems**
+
+Founder, ChipSentinel · BSCS-ML Student
+
+*"Building intelligent systems where time is currency."*
+
+I build computer vision and agentic AI systems that run on constrained, real-world hardware — from a DOST-endorsed waste classifier to a satellite-based disaster-response pipeline.
 
 <div align="left">
-  <h3>AI/ML Engineer | CV/LLM Researcher</h3>
   <a href="https://linkedin.com/in/montazar-matlih">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -17,72 +20,92 @@
   </a>
 </div>
 
-### ⚙️ Projects
+---
 
-<details>
-  <summary><strong>ChipSentinel</strong> <code>[May 2026 - Present]</code> <strong>[Active Startup]</strong> <br>
-  <strong>Stack:</strong> AMD MI300X, ROCm 6.0, PatchCore (Edge Inference), Qwen-VL, FastAPI, React, Python</summary>
-  Passive AI anomaly detection engine for the semiconductor and PCB manufacturing industries. Translating high-speed visual telemetry into daily margin recovery. <a href="https://chipsentinel.cloud/">Landing Page</a>.
+## Validated Track Record
+
+- 🥇 **1st Place, Project IMPACT (NU-D × REZBIN)** — endorsed by DOST Calabarzon & DSWD for regional edge-AI deployment
+- 📊 **94.2% mAP@50** — custom 9-class aerial POV vehicle detection, full methodology in technical report
+- 🎤 **2× invited speaker** — NUD STEM Career Fair (A.Y. 2024–25, 2025–26)
+- 🏗️ **AMD Developer Hackathon** — shipped a live multi-agent disaster-response pipeline on MI300X/ROCm 6.0
 
 ---
-  
-</details>
 
-<details>
-  <summary><strong>Blacksite Node</strong> <code>[May 2026 - Present]</code> <strong>[Free, Open-Source Software]</strong> <br>
-  <strong>Stack:</strong> Tauri v2, Argon2id, ChaCha20-Poly1305, NLP (LSTM/RNN), LSB/EOF Steganography, Rust, React</summary>
-  A zero-knowledge password manager & secure notepad with strict memory-hard constraints and a cryptographic duress protocol. Integrates Natural Language Processing (NLP) to evaluate password entropy, replacing rudimentary regex limits. Steganography exports via End-Of-File (EOF) and Least Significant Bit (LSB). Uses BIP-39 wordlist, with a total of 12,288 words across (English, Spanish, French, Italian, Portuguese, and Czech) for the passphrase. Forever, Free and Open-Source Software (FOSS). <a href="https://github.com/Matlih/Blacksite-Node/releases">Releases.</a> <a href="https://github.com/Matlih/Blacksite-Node">Repository.</a>
+## Currently Building
 
----
-  
-</details>
+### ChipSentinel
+Startup · `May 2026 → Present`
 
-<details>
-  <summary><strong>JARVIS Vision: Multimodal Edge Interface</strong> <code>[June 2026]</code> <strong>[Resource Speaker & Live Demo]</strong> <br>
-  <strong>Stack:</strong> YOLO11n, Edge TTS, Speech Recognition, OpenCV, Python</summary>
-  A real-time object detection and voice-controlled agent engineered for a live technical demonstration as a guest speaker at the National University Dasmariñas (NUD) STEM Career Fair A.Y. 2025–2026. Integrates wake-word activation, zero-cloud local inference, and dynamic scene narration. <a href="https://github.com/Matlih/JARVIS-Vision">Repository.</a>
+Edge-deployed anomaly detection for semiconductor and PCB manufacturing lines. Passive visual inspection designed to catch defects before they hit yield — built on PatchCore for edge inference and Qwen-VL for scene-level reasoning, served through FastAPI/React, running on AMD MI300X/ROCm 6.0.
 
----
-  
-</details>
+**Stack:** AMD MI300X · ROCm 6.0 · PatchCore · Qwen-VL · FastAPI · React
 
-<details>
-  <summary><strong>Project ARK: Autonomous Reconnaissance Kinematics</strong> <code>[May 2026]</code> <strong>[AMD Developer Hackathon]</strong> <br>
-  <strong>Stack:</strong> AMD MI300X, ROCm 6.0, LangGraph, Prithvi-100M, Qwen-VL, XGBoost, ESA Sentinel-2 L2A, NASA EONET, React, Python</summary>
-  A defense-grade geospatial protocol transforming raw satellite telemetry into ultra-low latency disaster directives. A sovereign, end-to-end agentic intelligence pipeline that compresses the post-disaster assessment window from 72–96 hours to under 60 seconds, powered by the parallel compute dominance of the AMD Instinct™ MI300X (192GB HBM3). <a href="https://project-ark-mu.vercel.app/">Live Deployment</a>. <a href="https://lablab.ai/u/@matlih/ai-hackathons/amd-developer/certificate">Certificate</a>.
+**→ [Landing Page](https://chipsentinel.cloud/)**
+
+### Blacksite Node
+Free & Source-Available Software · `May 2026 → Present`
+
+Zero-knowledge password manager and secure notepad with memory-hard constraints and a cryptographic duress protocol. NLP-based (LSTM/RNN) entropy evaluation replaces regex password rules; steganographic export via LSB/EOF; BIP-39 passphrase generation across 12,288 words in 6 languages (EN/ES/FR/IT/PT/CZ).
+
+**Stack:** Rust · Tauri v2 · Argon2id · ChaCha20-Poly1305
+
+**→ [Repository](https://github.com/Matlih/Blacksite-Node) · [Releases](https://github.com/Matlih/Blacksite-Node/releases)**
+
 
 ---
-  
-</details>
 
-<details>
-  <summary><strong>ShellWise Smart Bin (Project IMPACT)</strong> <code>[April 2026]</code> <strong>[1st Place & DOST Endorsed]</strong> <br>
-  <strong>Stack:</strong> YOLO11n, Edge Inference, Computer Vision, Python</summary>
-  A localized, edge-deployed smart waste classification system engineered for real-time inference on resource-constrained hardware. Awarded 1st Place overall by NU-D and REZBIN, securing official endorsement for regional edge-AI integration from DOST Calabarzon and DSWD.
+## Flagship Projects
+
+### ShellWise Smart Bin — Project IMPACT
+🥇 **1st Place — NU-D × REZBIN** · Endorsed by DOST Calabarzon & DSWD · `April 2026`
+
+Edge-deployed waste classification system running real-time inference on resource-constrained hardware. The DOST/DSWD endorsement specifically cites it for regional edge-AI integration.
+
+**Stack:** YOLO11n · Edge Inference · Python
+
+**→ [Repository](https://github.com/Matlih/ShellWise-Smart-Bin)**
+
+### Project ARK — Autonomous Reconnaissance Kinematics
+AMD Developer Hackathon · `May 2026`
+
+Agentic pipeline that turns raw satellite telemetry (ESA Sentinel-2 L2A, NASA EONET) into disaster-response directives — engineered for under-60-second turnaround against a 72–96 hour manual-assessment baseline. Multi-agent orchestration (LangGraph) over a geospatial foundation model (Prithvi-100M) and Qwen-VL, running on AMD MI300X (192GB HBM3) / ROCm 6.0.
+
+**Stack:** AMD MI300X · ROCm 6.0 · LangGraph · Prithvi-100M · Qwen-VL · XGBoost
+
+**→ [Repository](https://github.com/Matlih/Project_ARK) · [Live Deployment](https://project-ark-mu.vercel.app/) · [Hackathon Certificate](https://lablab.ai/u/@matlih/ai-hackathons/amd-developer/certificate)**
+
+### Aerial Vehicle Detection — 94.2% mAP@50
+Academic Research Capstone · `June 2025`
+
+Real-time, multi-class detection pipeline trained on a custom, manually annotated dataset spanning 9 vehicle types — PUJ, SUV, van, pickup, sedan, truck, bus, motorcycle, emergency — from an aerial perspective.
+
+**Stack:** YOLO11 · CNNs · Python
+
+**→ [Repository](https://github.com/Matlih/Aerial-View-Vehicle-Detection) · [Technical Report](https://doi.org/10.13140/RG.2.2.31747.46888)**
 
 ---
-  
-</details>
 
-<details>
-  <summary><strong>Aerial-View Vehicle Detection Pipeline</strong> <code>[June 2025]</code> <strong>[Grade 12 Academic Research Capstone]</strong> <br>
-  <strong>Stack:</strong> YOLO11, Convolutional Neural Networks, Computer Vision, Python</summary>
-  A real-time, multi-class categorization pipeline trained on a custom, manually annotated dataset of 9 vehicle types (PUJ, SUV, van, pickup truck, sedan, truck, bus,
-motorcycle, and emergency vehicles) from an aerial perspective. Achieved 94.2% mAP@50. <a href="https://doi.org/10.13140/RG.2.2.31747.46888">Read the full evaluation metrics here (DOI)</a>.
+## Live Technical Demonstrations
+
+### JARVIS Vision — Multimodal Edge Interface
+Invited Speaker, NUD STEM Career Fair · `June 2026`
+
+Real-time object detection and voice-controlled agent built for a live technical demo. Wake-word activation, fully local inference, dynamic scene narration via Edge TTS.
+
+**Stack:** YOLO11n · Edge TTS · Speech Recognition · OpenCV
+
+**→ [Repository](https://github.com/Matlih/JARVIS-Vision)**
+
+### Cultural Garment Detection
+Live Demonstration, NUD STEM Career Fair · `June 2025`
+
+Rapid-inference CV pipeline for traditional garment identification — the first live technical demo, a year ahead of the capstone above.
+
+**Stack:** YOLO11 · Python
+
+**→ [Repository](https://github.com/Matlih/NU-Traditional-Uniform-Detection)**
 
 ---
-  
-</details>
-
-<details>
-  <summary><strong>Computer Vision for Traditional Uniform Detection</strong> <code>[June 2025]</code> <strong>[Live Demonstration]</strong> <br>
-  <strong>Stack:</strong> YOLO11, Rapid Inference, Computer Vision, Python</summary>
-  A rapid-inference vision pipeline for cultural garment identification. Live, real-time technical demonstration for the National University Dasmariñas (NUD) STEM Career Fair A.Y. 2024-2025.
-
----
-  
-</details>
-
 
 ### 🛠 Technical Skills
 
