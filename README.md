@@ -99,7 +99,7 @@ Real-time object detection and voice-controlled agent built for a live technical
 ### Cultural Garment Detection
 Live Demonstration, NUD STEM Career Fair · `June 2025`
 
-Rapid-inference CV pipeline for traditional garment identification — the first live technical demo, a year ahead of the capstone above.
+Rapid-inference CV pipeline for traditional garment identification — the first live technical demo.
 
 **Stack:** YOLO11 · Python
 
