@@ -45,7 +45,7 @@ Edge-deployed anomaly detection for semiconductor and PCB manufacturing lines. P
 ### Blacksite Node
 Free & Source-Available Software · `May 2026 → Present`
 
-Zero-knowledge password manager and secure notepad with memory-hard constraints and a cryptographic duress protocol. NLP-based (LSTM/RNN) entropy evaluation replaces regex password rules; steganographic export via LSB/EOF; BIP-39 passphrase generation across 12,288 words in 6 languages (EN/ES/FR/IT/PT/CZ).
+Zero-knowledge password manager and secure notepad with memory-hard constraints and a cryptographic duress protocol. Uses an NLP-based password evaluator to move beyond traditional rule-based strength meters; steganographic export via LSB/EOF; BIP-39 passphrase generation across 12,288 words in 6 languages (EN/ES/FR/IT/PT/CZ).
 
 **Stack:** Rust · Tauri v2 · Argon2id · ChaCha20-Poly1305
 
