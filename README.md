@@ -26,7 +26,7 @@ I build computer vision and agentic AI systems that run on constrained, real-wor
 
 - 🥇 **1st Place, Project IMPACT (NU-D × REZBIN)** — endorsed by DOST Calabarzon & DSWD for regional edge-AI deployment
 - 📊 **94.2% mAP@50** — custom 9-class aerial POV vehicle detection, full methodology in technical report
-- 🎤 **2× invited speaker** — NUD STEM Career Fair (A.Y. 2024–25, 2025–26)
+- 🎤 **3× invited speaker** — NUD STEM Career Fair (A.Y. 2024–25, 2025–26), Campus Tour (A.Y. 2025-26)
 - 🏗️ **AMD Developer Hackathon** — shipped a live multi-agent disaster-response pipeline on MI300X/ROCm 6.0
 
 ---
