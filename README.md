@@ -25,11 +25,10 @@ I build computer vision and agentic AI systems that run on constrained, real-wor
 ## Validated Track Record
 
 - 🥇 **1st Place, Project IMPACT (NU-D × REZBIN)** — endorsed by DOST Calabarzon & DSWD for regional edge-AI deployment
+- 🏗️ **2× AMD Developer Hackathon Projects** — engineered a 24-hour hybrid edge-to-cloud C4ISR system and shipped a live multi-agent disaster-response pipeline on MI300X/ROCm 6.0
+- 🗜️ **75% INT8 Model Compression (TSEK)** — reduced a 1.12 GB (FP32) mDeBERTa model to ~280 MB via 8-bit dynamic quantization for fast in-browser inference at 92.2% accuracy
 - 📊 **94.2% mAP@50** — custom 9-class aerial POV vehicle detection, full methodology in technical report
 - 🎤 **3× invited speaker** — NUD STEM Career Fair (A.Y. 2024–25, 2025–26), Campus Tour (A.Y. 2025-26)
-- 🏗️ **AMD Developer Hackathon** — shipped a live multi-agent disaster-response pipeline on MI300X/ROCm 6.0
-- 🗜️ **75% INT8 Model Compression (TSEK)** — reduced a 1.12 GB (FP32) mDeBERTa model to ~280 MB via 8-bit dynamic quantization for fast in-browser inference at 92.2% accuracy
-- ⏱️ **24-Hour Autonomous C4ISR Pipeline (Ocular Sentinel)** — engineered a hybrid edge-to-cloud security system bridging YOLO11n and Qwen2-VL for the AMD Developer Hackathon Unicorn Track
 
 ---
 
@@ -58,24 +57,6 @@ Zero-knowledge password manager and secure notepad with memory-hard constraints 
 
 ## Flagship Projects
 
-### TSEK — Real-Time Fact-Checking System
-In-Browser ML & Serverless Verification Pipeline
-
-A cross-lingual Chrome Extension and web app that fact-checks claims in real-time while preserving privacy. It uses an in-browser local ML gatekeeper to filter out opinions and UI boilerplate, meaning only verifiable claims are sent to the backend. Achieved 92.2% peak accuracy, using 8-bit dynamic quantization to compress the mDeBERTa-v3-base model from 1.12 GB (FP32) to ~280 MB (INT8) for lightning-fast browser execution.
-
-**Stack:** React · Transformers.js · mDeBERTa (INT8) · Vercel Serverless · Gemini API
-
-**→ [Repository](https://github.com/Matlih/TSEK)**
-
-### Ocular Sentinel — Autonomous C4ISR
-AMD Developer Hackathon (Unicorn Track)
-
-An Autonomous C4ISR Security System that bridges ultra-fast edge detection with deep cloud-based multimodal reasoning. It runs a lightweight YOLO11n Edge Tripwire with a rolling frame buffer. Upon anomaly detection, downscaled timelapse frames are sampled and sent to a ROCm-accelerated Qwen2-VL model to generate rich, zero-shot tactical reports without relying on static bounding boxes.
-
-**Stack:** React · FastAPI · WebSockets · YOLO11n · Qwen2-VL · vLLM · AMD ROCm
-
-**→ [Repository](https://github.com/Matlih/OcularSentinel)**
-
 ### ShellWise Smart Bin — Project IMPACT
 🥇 **1st Place — NU-D × REZBIN** · Endorsed by DOST Calabarzon & DSWD · `April 2026`
 
@@ -84,6 +65,24 @@ Edge-deployed waste classification system running real-time inference on resourc
 **Stack:** YOLO11n · Edge Inference · Python
 
 **→ [Repository](https://github.com/Matlih/ShellWise-Smart-Bin)**
+
+### TSEK — Real-Time Fact-Checking System
+UNESCO Youth Hackathon 2026 · `July 2026`
+
+A cross-lingual Chrome Extension and web app that fact-checks claims in real-time while preserving privacy. It uses an in-browser local ML gatekeeper to filter out opinions and UI boilerplate, meaning only verifiable claims are sent to the backend. Achieved 92.2% peak accuracy, using 8-bit dynamic quantization to compress the mDeBERTa-v3-base model from 1.12 GB (FP32) to ~280 MB (INT8) for lightning-fast browser execution.
+
+**Stack:** React · Transformers.js · mDeBERTa (INT8) · Vercel Serverless · Gemini API
+
+**→ [Repository](https://github.com/Matlih/TSEK)**
+
+### Ocular Sentinel — Autonomous C4ISR
+AMD Developer Hackathon: ACT II · `July 2026`
+
+An Autonomous C4ISR Security System that bridges ultra-fast edge detection with deep cloud-based multimodal reasoning. It runs a lightweight YOLO11n Edge Tripwire with a rolling frame buffer. Upon anomaly detection, downscaled timelapse frames are sampled and sent to a ROCm-accelerated Qwen2-VL model to generate rich, zero-shot tactical reports without relying on static bounding boxes.
+
+**Stack:** React · FastAPI · WebSockets · YOLO11n · Qwen2-VL · vLLM · AMD ROCm
+
+**→ [Repository](https://github.com/Matlih/OcularSentinel)**
 
 ### Project ARK — Autonomous Reconnaissance Kinematics
 AMD Developer Hackathon · `May 2026`
@@ -131,7 +130,7 @@ Rapid-inference CV pipeline for traditional garment identification — the first
 
 | Domain | Technologies & Methodologies |
 | :--- | :--- |
-| **AI & Machine Learning** | Multi-Agent LLM Orchestration (LangGraph), Vision-Language Models (Qwen-VL), Multimodal Fine-Tuning (LoRA), NLP (LSTM/RNN), CV (CNNs & YOLO Architectures), Geospatial Foundation Models (Prithvi), XGBoost, Edge TTS, OpenCV. |
-| **Systems & Edge Compute** | Bare-metal GPU provisioning (AMD MI300X, ROCm 6.x), Edge Inference (PatchCore), Full-Stack Integration (FastAPI, React), Systems Architecture Layout. |
+| **AI & Machine Learning** | Multi-Agent LLM Orchestration (LangGraph), Vision-Language Models (Qwen-VL), Multimodal Fine-Tuning (LoRA), NLP (LSTM/RNN), CV (CNNs & YOLO Architectures), Geospatial Foundation Models (Prithvi), XGBoost, Edge TTS, OpenCV, Model Compression (INT8 Quantization). |
+| **Systems & Edge Compute** | Bare-metal GPU provisioning (AMD MI300X, ROCm 6.x), Edge Inference (PatchCore), Full-Stack Integration (FastAPI, React), Systems Architecture Layout, In-Browser ML (Transformers.js), LLM Serving (vLLM). |
 | **Security Architecture** | Rust Cryptographic Engineering (Argon2id, Tauri IPC), Steganography (LSB/EOF), Zero-Knowledge Infrastructure, Offline Threat Modeling. |
 | **Leadership & Strategy** | Cross-functional team direction, predictive architecture, risk elimination, technical public speaking. |
