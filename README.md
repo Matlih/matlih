@@ -28,6 +28,8 @@ I build computer vision and agentic AI systems that run on constrained, real-wor
 - 📊 **94.2% mAP@50** — custom 9-class aerial POV vehicle detection, full methodology in technical report
 - 🎤 **3× invited speaker** — NUD STEM Career Fair (A.Y. 2024–25, 2025–26), Campus Tour (A.Y. 2025-26)
 - 🏗️ **AMD Developer Hackathon** — shipped a live multi-agent disaster-response pipeline on MI300X/ROCm 6.0
+- 🗜️ **75% INT8 Model Compression (TSEK)** — reduced a 1.12 GB (FP32) mDeBERTa model to ~280 MB via 8-bit dynamic quantization for fast in-browser inference at 92.2% accuracy
+- ⏱️ **24-Hour Autonomous C4ISR Pipeline (Ocular Sentinel)** — engineered a hybrid edge-to-cloud security system bridging YOLO11n and Qwen2-VL for the AMD Developer Hackathon Unicorn Track
 
 ---
 
@@ -55,6 +57,24 @@ Zero-knowledge password manager and secure notepad with memory-hard constraints 
 ---
 
 ## Flagship Projects
+
+### TSEK — Real-Time Fact-Checking System
+In-Browser ML & Serverless Verification Pipeline
+
+A cross-lingual Chrome Extension and web app that fact-checks claims in real-time while preserving privacy. It uses an in-browser local ML gatekeeper to filter out opinions and UI boilerplate, meaning only verifiable claims are sent to the backend. Achieved 92.2% peak accuracy, using 8-bit dynamic quantization to compress the mDeBERTa-v3-base model from 1.12 GB (FP32) to ~280 MB (INT8) for lightning-fast browser execution.
+
+**Stack:** React · Transformers.js · mDeBERTa (INT8) · Vercel Serverless · Gemini API
+
+**→ [Repository](https://github.com/Matlih/TSEK)**
+
+### Ocular Sentinel — Autonomous C4ISR
+AMD Developer Hackathon (Unicorn Track)
+
+An Autonomous C4ISR Security System that bridges ultra-fast edge detection with deep cloud-based multimodal reasoning. It runs a lightweight YOLO11n Edge Tripwire with a rolling frame buffer. Upon anomaly detection, downscaled timelapse frames are sampled and sent to a ROCm-accelerated Qwen2-VL model to generate rich, zero-shot tactical reports without relying on static bounding boxes.
+
+**Stack:** React · FastAPI · WebSockets · YOLO11n · Qwen2-VL · vLLM · AMD ROCm
+
+**→ [Repository](https://github.com/Matlih/OcularSentinel)**
 
 ### ShellWise Smart Bin — Project IMPACT
 🥇 **1st Place — NU-D × REZBIN** · Endorsed by DOST Calabarzon & DSWD · `April 2026`
