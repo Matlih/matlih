@@ -141,5 +141,6 @@ Rapid-inference CV pipeline for traditional garment identification — the first
 | :--- | :--- |
 | **AI & Machine Learning** | Multi-Agent LLM Orchestration (LangGraph), Vision-Language Models (Qwen-VL), Multimodal Fine-Tuning (LoRA), NLP (LSTM/RNN), CV (CNNs & YOLO Architectures), Geospatial Foundation Models (Prithvi), XGBoost, Edge TTS, OpenCV, Model Compression (INT8 Quantization). |
 | **Systems & Edge Compute** | Bare-metal GPU provisioning (AMD MI300X, ROCm 6.x), Edge Inference (PatchCore), Full-Stack Integration (FastAPI, React), Systems Architecture Layout, In-Browser ML (Transformers.js), LLM Serving (vLLM). |
+| **UI & UX Architecture** | Smooth Web Interfaces (React, Vite, TypeScript), Design Engineering (Tailwind CSS), Desktop-Native UI/UX Frameworks (Tauri). |
 | **Security Architecture** | Rust Cryptographic Engineering (Argon2id, Tauri IPC), Steganography (LSB/EOF), Zero-Knowledge Infrastructure, Offline Threat Modeling. |
 | **Leadership & Strategy** | Cross-functional team direction, predictive architecture, risk elimination, technical public speaking. |
