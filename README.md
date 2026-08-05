@@ -82,7 +82,7 @@ A cross-lingual Chrome Extension and web app that fact-checks claims in real-tim
 
 **Stack:** React · Transformers.js · mDeBERTa (INT8) · Vercel Serverless · Gemini API
 
-**→ [Repository](https://github.com/Matlih/TSEK)**
+**→ [Chrome Web Store](https://chromewebstore.google.com/detail/tsek-smart-credibility-co/njkpjcidaaakhhbfbnimelmpkmnnejmo) · [Landing Page](https://tsek-virid.vercel.app/)**
 
 ### Ocular Sentinel — Autonomous C4ISR
 AMD Developer Hackathon: ACT II · `July 2026`
