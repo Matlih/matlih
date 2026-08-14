@@ -3,6 +3,7 @@
 **Applied AI Engineer — Edge Computer Vision & Multi-Agent Systems**
 
 Founder, ChipSentinel · BSCS-ML Student
+> Margin Recovery via Escape Rate Reduction: A passive parallel inference layer for OSAT and advanced PCB assembly
 
 *"Building intelligent systems where time is currency."*
 
