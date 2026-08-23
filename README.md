@@ -54,7 +54,7 @@ Zero-knowledge password manager and secure notepad with memory-hard constraints 
 **→ [Repository](https://github.com/Matlih/Blacksite-Node) · [Releases](https://github.com/Matlih/Blacksite-Node/releases)**
 
 ### Prod
-FOSS (Free and Open Source Software) · `July 2026 → Present`
+Free & Source-Available Software · `July 2026 → Present`
 
 A minimalist desktop timer built to enforce the 90/15 Ultradian rhythm and prevent digital burnout (Originally built for Jah). Engineered for zero visual bloat and an extremely low resource footprint using a native Rust backend. Features persistent window state memory via Tauri IPC, hardware-accelerated responsive animations, and custom-synthesized Web Audio API alerts.
 
