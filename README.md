@@ -92,7 +92,7 @@ An Autonomous C4ISR Security System that bridges ultra-fast edge detection with 
 
 **Stack:** React · FastAPI · WebSockets · YOLO11n · Qwen2-VL · vLLM · AMD ROCm
 
-**→ [Repository](https://github.com/Matlih/OcularSentinel)**
+**→ [Repository](https://github.com/Matlih/OcularSentinel) · [Live Demo](https://ocular-sentinel.vercel.app/) · [Hackathon Certificate](https://lablab.ai/u/@Matlih/ai-hackathons/amd-developer-hackathon-act-ii/certificate)**
 
 ### Project ARK — Autonomous Reconnaissance Kinematics
 AMD Developer Hackathon · `May 2026`
@@ -101,7 +101,7 @@ Agentic pipeline that turns raw satellite telemetry (ESA Sentinel-2 L2A, NASA EO
 
 **Stack:** AMD MI300X · ROCm 6.0 · LangGraph · Prithvi-100M · Qwen-VL · XGBoost
 
-**→ [Repository](https://github.com/Matlih/Project_ARK) · [Live Deployment](https://project-ark-mu.vercel.app/) · [Hackathon Certificate](https://lablab.ai/u/@matlih/ai-hackathons/amd-developer/certificate)**
+**→ [Repository](https://github.com/Matlih/Project_ARK) · [Live Demo](https://project-ark-mu.vercel.app/) · [Hackathon Certificate](https://lablab.ai/u/@Matlih/ai-hackathons/amd-developer/certificate)**
 
 ### Aerial Vehicle Detection — 94.2% mAP@50
 Academic Research Capstone · `June 2025`
