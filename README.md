@@ -3,7 +3,7 @@
 **Applied AI Engineer — Edge Computer Vision & Multi-Agent Systems**
 
 Founder, ChipSentinel · BSCS-ML Student
-> Margin Recovery via Escape Rate Reduction: A passive parallel inference layer for OSAT and advanced PCB assembly
+> AI Quality Inspection for Semiconductor & PCB Assembly | Helping OSAT/EMS factories catch defects AOI misses — without re-certification
 
 *"Building intelligent systems where time is currency."*
 
