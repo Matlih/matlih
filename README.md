@@ -25,6 +25,7 @@ I build computer vision and agentic AI systems that run on constrained, real-wor
 
 ## Validated Track Record
 
+- 🎙️ **Top 5 Finalist, Founders Live Manila (Rockwell)** — Selected among competing startups to deliver the signature 99-second pitch for ChipSentinel to founders and investors
 - 🥇 **1st Place, Project IMPACT (NU-D × REZBIN)** — endorsed by DOST Calabarzon & DSWD for regional edge-AI deployment
 - 🏗️ **2× AMD Developer Hackathon Projects** — engineered a 24-hour hybrid edge-to-cloud C4ISR system and shipped a live multi-agent disaster-response pipeline on MI300X/ROCm 6.0
 - 🗜️ **75% INT8 Model Compression (TSEK)** — reduced a 1.12 GB (FP32) mDeBERTa model to ~280 MB via 8-bit dynamic quantization for fast in-browser inference at 92.2% accuracy
@@ -37,6 +38,8 @@ I build computer vision and agentic AI systems that run on constrained, real-wor
 
 ### ChipSentinel
 Startup · `May 2026 → Present`
+
+*Top 5 Finalist, Founders Live Manila*
 
 Edge-deployed anomaly detection for semiconductor and PCB manufacturing lines. Passive visual inspection designed to catch defects before they hit yield — built on PatchCore for edge inference and Qwen-VL for scene-level reasoning, served through FastAPI/React, running on AMD MI300X/ROCm 6.0.
 
@@ -114,7 +117,16 @@ Real-time, multi-class detection pipeline trained on a custom, manually annotate
 
 ---
 
-## Live Technical Demonstrations
+## Talks, Pitches & Demonstrations
+
+### Founders Live Manila — ChipSentinel Pitch
+Finalist (Top 5) · Rockwell, Makati · `September 2026`
+
+Selected as one of 5 startup finalists across the region to deliver the signature 99-second pitch and defend live audience Q&A on industrial edge-AI inspection for semiconductor yield optimization.
+
+**Focus:** 99-Second Pitch · Semiconductor Quality Inspection · Live Audience Q&A
+
+**→ [Post](https://www.facebook.com/share/p/19VsF2jS8V/)**
 
 ### JARVIS Vision — Multimodal Edge Interface
 Invited Speaker, NUD STEM Career Fair · `June 2026`
