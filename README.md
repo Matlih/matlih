@@ -41,7 +41,7 @@ Startup · `May 2026 → Present`
 
 *Top 5 Finalist, Founders Live Manila*
 
-Edge-deployed anomaly detection for semiconductor and PCB manufacturing lines. Passive visual inspection designed to catch defects before they hit yield — built on PatchCore for edge inference and Qwen-VL for scene-level reasoning, served through FastAPI/React, running on AMD MI300X/ROCm 6.0.
+Passive AI quality-control pipeline that catches defects conventional AOI misses in real time on existing camera infrastructure.
 
 **Stack:** AMD MI300X · ROCm 6.0 · PatchCore · Qwen-VL · FastAPI · React
 
@@ -50,7 +50,7 @@ Edge-deployed anomaly detection for semiconductor and PCB manufacturing lines. P
 ### Blacksite Node
 Free & Source-Available Software · `May 2026 → Present`
 
-Zero-knowledge password manager and secure notepad with memory-hard constraints and a cryptographic duress protocol. Uses an NLP-based password evaluator to move beyond traditional rule-based strength meters; steganographic export via LSB/EOF; BIP-39 passphrase generation across 12,288 words in 6 languages (EN/ES/FR/IT/PT/CZ).
+Zero-knowledge password manager featuring cryptographic duress protocols and steganography.
 
 **Stack:** Rust · Tauri v2 · Argon2id · ChaCha20-Poly1305
 
@@ -59,7 +59,7 @@ Zero-knowledge password manager and secure notepad with memory-hard constraints 
 ### Prod
 Free & Source-Available Software · `July 2026 → Present`
 
-A minimalist desktop timer built to enforce the 90/15 Ultradian rhythm and prevent digital burnout (Originally built for Jah). Engineered for zero visual bloat and an extremely low resource footprint using a native Rust backend. Features persistent window state memory via Tauri IPC, hardware-accelerated responsive animations, and custom-synthesized Web Audio API alerts.
+A zero-bloat native desktop timer built to prevent digital burnout.
 
 **Stack:** Rust · Tauri · React · TypeScript · Web Audio API
 
@@ -73,7 +73,7 @@ A minimalist desktop timer built to enforce the 90/15 Ultradian rhythm and preve
 ### ShellWise Smart Bin — Project IMPACT
 🥇 **1st Place — NU-D × REZBIN** · Endorsed by DOST Calabarzon & DSWD · `April 2026`
 
-Edge-deployed waste classification system running real-time inference on resource-constrained hardware. The DOST/DSWD endorsement specifically cites it for regional edge-AI integration.
+DOST-endorsed edge-AI hardware for automated, real-time waste classification.
 
 **Stack:** YOLO11n · Edge Inference · Python
 
@@ -82,7 +82,7 @@ Edge-deployed waste classification system running real-time inference on resourc
 ### TSEK — Real-Time Fact-Checking System
 UNESCO Youth Hackathon 2026 · `July 2026`
 
-A cross-lingual Chrome Extension and web app that fact-checks claims in real-time while preserving privacy. It uses an in-browser local ML gatekeeper to filter out opinions and UI boilerplate, meaning only verifiable claims are sent to the backend. Achieved 92.2% peak accuracy, using 8-bit dynamic quantization to compress the mDeBERTa-v3-base model from 1.12 GB (FP32) to ~280 MB (INT8) for lightning-fast browser execution.
+Privacy-first, in-browser fact-checking extension powered by highly compressed ML models.
 
 **Stack:** React · Transformers.js · mDeBERTa (INT8) · Vercel Serverless · Gemini API
 
@@ -91,7 +91,7 @@ A cross-lingual Chrome Extension and web app that fact-checks claims in real-tim
 ### Ocular Sentinel — Autonomous C4ISR
 AMD Developer Hackathon: ACT II · `July 2026`
 
-An Autonomous C4ISR Security System that bridges ultra-fast edge detection with deep cloud-based multimodal reasoning. It runs a lightweight YOLO11n Edge Tripwire with a rolling frame buffer. Upon anomaly detection, downscaled timelapse frames are sampled and sent to a ROCm-accelerated Qwen2-VL model to generate rich, zero-shot tactical reports without relying on static bounding boxes.
+Autonomous edge-to-cloud threat detection for live security camera feeds.
 
 **Stack:** React · FastAPI · WebSockets · YOLO11n · Qwen2-VL · vLLM · AMD ROCm
 
@@ -100,7 +100,7 @@ An Autonomous C4ISR Security System that bridges ultra-fast edge detection with 
 ### Project ARK — Autonomous Reconnaissance Kinematics
 AMD Developer Hackathon · `May 2026`
 
-Agentic pipeline that turns raw satellite telemetry (ESA Sentinel-2 L2A, NASA EONET) into disaster-response directives — engineered for under-60-second turnaround against a 72–96 hour manual-assessment baseline. Multi-agent orchestration (LangGraph) over a geospatial foundation model (Prithvi-100M) and Qwen-VL, running on AMD MI300X (192GB HBM3) / ROCm 6.0.
+An agentic pipeline turning satellite telemetry into disaster-response directives in 60 seconds.
 
 **Stack:** AMD MI300X · ROCm 6.0 · LangGraph · Prithvi-100M · Qwen-VL · XGBoost
 
@@ -109,7 +109,7 @@ Agentic pipeline that turns raw satellite telemetry (ESA Sentinel-2 L2A, NASA EO
 ### Aerial Vehicle Detection — 94.2% mAP@50
 Academic Research Capstone · `June 2025`
 
-Real-time, multi-class detection pipeline trained on a custom, manually annotated dataset spanning 9 vehicle types — PUJ, SUV, van, pickup, sedan, truck, bus, motorcycle, emergency — from an aerial perspective.
+Real-time aerial vehicle detection pipeline achieving 94.2% mAP from scratch.
 
 **Stack:** YOLO11 · CNNs · Python
 
