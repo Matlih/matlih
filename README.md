@@ -43,14 +43,18 @@ Startup · `May 2026 → Present`
 
 Passive AI quality-control pipeline that catches defects conventional AOI misses in real time on existing camera infrastructure.
 
-**Stack:** AMD MI300X · ROCm 6.0 · PatchCore · Qwen-VL · FastAPI · React
+Live in 72 hours. No line changes. No re-certification.
+
+**Stack:** PatchCore · EfficientAD · Qwen-VL · FastAPI · React
 
 **→ [Landing Page](https://chipsentinel.cloud/)**
 
 ### Blacksite Node
 Free & Source-Available Software · `May 2026 → Present`
 
-Zero-knowledge password manager featuring cryptographic duress protocols and steganography.
+Password manager featuring cryptographic security, duress protocols and steganography.
+
+USB-portable. Fully offline. Encrypted.
 
 **Stack:** Rust · Tauri v2 · Argon2id · ChaCha20-Poly1305
 
@@ -59,7 +63,9 @@ Zero-knowledge password manager featuring cryptographic duress protocols and ste
 ### Prod
 Free & Source-Available Software · `July 2026 → Present`
 
-A zero-bloat native desktop timer built to prevent digital burnout.
+Native desktop timer built to prevent digital burnout.
+
+Ultradian rhythm. Always on top. Borderless.
 
 **Stack:** Rust · Tauri · React · TypeScript · Web Audio API
 
@@ -75,6 +81,8 @@ A zero-bloat native desktop timer built to prevent digital burnout.
 
 DOST-endorsed edge-AI hardware for automated, real-time waste classification.
 
+8MB model. 94.9% precision.
+
 **Stack:** YOLO11n · Edge Inference · Python
 
 **→ [Repository](https://github.com/Matlih/ShellWise-Smart-Bin)**
@@ -83,6 +91,8 @@ DOST-endorsed edge-AI hardware for automated, real-time waste classification.
 UNESCO Youth Hackathon 2026 · `July 2026`
 
 Privacy-first, in-browser fact-checking extension powered by highly compressed ML models.
+
+Code-switching NLP. 100 languages. 280MB model, from a 1.12GB baseline. 
 
 **Stack:** React · Transformers.js · mDeBERTa (INT8) · Vercel Serverless · Gemini API
 
@@ -101,6 +111,8 @@ Autonomous edge-to-cloud threat detection for live security camera feeds.
 AMD Developer Hackathon · `May 2026`
 
 An agentic pipeline turning satellite telemetry into disaster-response directives in 60 seconds.
+
+Bilingual. 60 seconds full report, compressed from 72-96 hour manual baseline. Multi-agent.
 
 **Stack:** AMD MI300X · ROCm 6.0 · LangGraph · Prithvi-100M · Qwen-VL · XGBoost
 
