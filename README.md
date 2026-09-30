@@ -60,7 +60,7 @@ Built to completely change how CS is taught, featuring a local in-browser ML sem
 
 **→ [Live Platform](https://csvisual.dev/)**
 
-### Blacksite Node
+### Blacksite
 Free & Source-Available Software · `May 2026 → Present`
 
 Password manager featuring cryptographic security, duress protocols and steganography.
