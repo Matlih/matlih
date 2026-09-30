@@ -49,6 +49,17 @@ Live in 72 hours. No line changes. No re-certification.
 
 **→ [Landing Page](https://chipsentinel.cloud/)**
 
+### CS Visualized
+Free Educational Platform · `September 2026 → Present`
+
+Learn by seeing. Master by doing. Interactive computer science visualizations ranging from core Data Structures to advanced AI & Computer Vision.
+
+Built to completely change how CS is taught, featuring a local in-browser ML semantic search engine.
+
+**Stack:** React · TypeScript · Vite · Transformers.js · Tailwind CSS
+
+**→ [Live Platform](https://csvisual.dev/)**
+
 ### Blacksite Node
 Free & Source-Available Software · `May 2026 → Present`
 
